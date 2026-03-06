@@ -1,6 +1,6 @@
 # Wheelder — Innovation Proof & Project History
 
-> A humble, transparent record of Wheelder's journey from a messy student project in 2020 to a focused AI research platform in 2026.
+> A transparent record of Wheelder's journey from a messy student project in 2020 to a focused AI research platform in 2026.
 
 ---
 
